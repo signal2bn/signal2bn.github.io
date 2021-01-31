@@ -1,10 +1,5 @@
 # signal2bn.github.io
-test
 
+Private Repositories 관리 되고 있으며, 
+오픈 소스화를 준비 중에 있습니다. 
 
-
-* 되는가 ? 
-** 된다!
-*** 그래? 
-
-| 마크 다운 | 되는가 | 된다 | 
